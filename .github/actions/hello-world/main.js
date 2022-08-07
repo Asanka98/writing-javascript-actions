@@ -1,3 +1,1 @@
-runs:
-  using: "node12"
-  main: "bread.js"
+console.log("Hello World");
